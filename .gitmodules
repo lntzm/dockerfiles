@@ -1,0 +1,12 @@
+[submodule "pytorch1.11.0-cuda11.3-cudnn8-devel/v1.0-apex/apex"]
+	path = pytorch1.11.0-cuda11.3-cudnn8-devel/v1.0-apex/apex
+	url = https://github.com/NVIDIA/apex.git
+[submodule "pytorch1.11.0-cuda11.3-cudnn8-devel-git-clash/v0.5/apex"]
+	path = pytorch1.11.0-cuda11.3-cudnn8-devel-git-clash/v0.5/apex
+	url = https://github.com/NVIDIA/apex.git
+[submodule "pytorch1.13.0-cuda11.6-cudnn8-devel/v1.0-apex/apex"]
+	path = pytorch1.13.0-cuda11.6-cudnn8-devel/v1.0-apex/apex
+	url = https://github.com/NVIDIA/apex.git
+[submodule "pytorch1.13.0-cuda11.6-cudnn8-devel-git-clash/v0.5/apex"]
+	path = pytorch1.13.0-cuda11.6-cudnn8-devel-git-clash/v0.5/apex
+	url = https://github.com/NVIDIA/apex.git
